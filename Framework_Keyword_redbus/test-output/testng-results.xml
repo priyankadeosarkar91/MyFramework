@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55472" started-at="2020-03-22T06:44:30Z" finished-at="2020-03-22T06:45:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55472" started-at="2020-03-22T06:44:30Z" finished-at="2020-03-22T06:45:25Z">
+      <class name="testCases.general_test_cases">
+        <test-method status="PASS" signature="tc_001()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_001" duration-ms="10217" started-at="2020-03-22T06:44:30Z" finished-at="2020-03-22T06:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+        <test-method status="PASS" signature="tc_002()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_002" duration-ms="18850" started-at="2020-03-22T06:44:40Z" finished-at="2020-03-22T06:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002 -->
+        <test-method status="PASS" signature="tc_003()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_003" duration-ms="450" started-at="2020-03-22T06:44:59Z" finished-at="2020-03-22T06:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_003 -->
+        <test-method status="PASS" signature="tc_004()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_004" duration-ms="56" started-at="2020-03-22T06:44:59Z" finished-at="2020-03-22T06:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_004 -->
+        <test-method status="PASS" signature="tc_005()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_005" duration-ms="909" started-at="2020-03-22T06:44:59Z" description="VerifyMenuItems1" finished-at="2020-03-22T06:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_005 -->
+        <test-method status="PASS" signature="tc_006()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_006" duration-ms="2148" started-at="2020-03-22T06:45:00Z" description="VerifyMenuItems2" finished-at="2020-03-22T06:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_006 -->
+        <test-method status="PASS" signature="tc_007()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_007" duration-ms="362" started-at="2020-03-22T06:45:03Z" description="VerifyMenuItems3" finished-at="2020-03-22T06:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_007 -->
+        <test-method status="PASS" signature="tc_008()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_008" duration-ms="1406" started-at="2020-03-22T06:45:03Z" finished-at="2020-03-22T06:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_008 -->
+        <test-method status="PASS" signature="tc_009()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_009" duration-ms="239" started-at="2020-03-22T06:45:04Z" finished-at="2020-03-22T06:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_009 -->
+        <test-method status="PASS" signature="tc_010()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_010" duration-ms="12831" started-at="2020-03-22T06:45:05Z" finished-at="2020-03-22T06:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_010 -->
+        <test-method status="PASS" signature="tc_011()[pri:0, instance:testCases.general_test_cases@7a9273a8]" name="tc_011" duration-ms="7886" started-at="2020-03-22T06:45:17Z" finished-at="2020-03-22T06:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_011 -->
+      </class> <!-- testCases.general_test_cases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
